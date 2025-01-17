@@ -21,7 +21,7 @@ There is no conference fee to attend any of the events.
 
 How to submit: Send an abstract, maximum 200 words.
 
-Submission form: [https://forms.gle/s6vA5bnYCurdYjoB9](https://forms.gle/s6vA5bnYCurdYjoB9)
+To submit: [**complete the form here**](https://forms.gle/s6vA5bnYCurdYjoB9)
 
 <span style="color:red">**Deadline: March 14, 2025.**</span>
 
