@@ -23,4 +23,8 @@ How to submit: form coming soon.
 
 ## Invited keynote speakers
 
-If you have any questions, feel free to contact **Ed Baggs** (ebag@sdu.dk).
+If you have any questions, feel free to contact the organizers
+- **Ed Baggs** (ebag@sdu.dk).
+- **Sune Vork Steffensen** (s.v.steffensen@sdu.dk)
+- **Sarah Bro Trasmundi** (sarbro@sdu.dk)
+- **Martyna Meyer** (mamey@sdu.dk)
