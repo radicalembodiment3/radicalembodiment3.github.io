@@ -25,7 +25,7 @@ To submit: [**complete the form here**](https://forms.gle/s6vA5bnYCurdYjoB9)
 
 <span style="color:red">**Deadline: March 14, 2025.**</span>
 
-Notification of acceptance: April 1, 2025.
+Notification of acceptance: March 31, 2025.
 
 ## Invited keynote speakers
 - **Vicente Raja**, University of Murcia
