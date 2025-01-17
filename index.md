@@ -19,7 +19,7 @@ Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
 
 How to submit: form coming soon.
 
-<color=red>Deadline: March 14, 2025.</color>
+<span style="color:red">Deadline: March 14, 2025.</span>
 
 ## Invited keynote speakers
 
