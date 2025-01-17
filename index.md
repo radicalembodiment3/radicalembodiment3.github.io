@@ -17,7 +17,9 @@ Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
 - Poster: Or poster!
 - Short contributions (5 minutes or less): Do you have a question or idea that you want to share with the radical embodiment community and get feedback? You can also submit a short contribution.
 
-How to submit: form coming soon.
+How to submit: Send an abstract, maximum 200 words.
+
+Submission form coming soon!
 
 <span style="color:red">Deadline: March 14, 2025.</span>
 
