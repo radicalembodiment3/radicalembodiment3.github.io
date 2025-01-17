@@ -20,11 +20,10 @@ author: Ed Baggs
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "home"
+  Program: "program"
+  Practical info: "info"
+  Call for contributions: "call"
 
 ################
 # --- Logo --- #
