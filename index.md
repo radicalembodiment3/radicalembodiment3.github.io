@@ -11,3 +11,9 @@ Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
 **Thursday, June 19 and Friday June, 20** Dimensions of Radical Embodiment 3
 
 **Saturday, June 21** Workshop: Computational Creativity, Embodiment, and Problem Solving
+
+## Call for contributions
+
+## Invited keynote speakers
+
+If you have any questions, feel free to contact **Ed Baggs** (ebag@sdu.dk).
