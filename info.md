@@ -25,7 +25,7 @@ The best hotel options are centrally located near the main train station. Option
 
 **Hostels**
 Cheaper options are available, including Airbnb and hostels, including the following:
-- [Kragsbjerggaard Vandrerhjem & Hotel](https://kragsbjerggaard.com/), a hostel in an old manor house, located around halfway between the centre and campus 
+- [Kragsbjerggaard Vandrerhjem & Hotel](https://kragsbjerggaard.com/), a hostel in an old manor house, located around halfway between the city centre and campus 
 - [DanHostel Odense City](https://www.danhostel.dk/en/hostel/danhostel-odense-city), located next to the main train station
 
 ## Getting around in Odense
