@@ -21,7 +21,7 @@ How to submit: Send an abstract, maximum 200 words.
 
 Submission form: https://forms.gle/s6vA5bnYCurdYjoB9
 
-<span style="color:red">Deadline: March 14, 2025.</span>
+<span style="color:red">**Deadline: March 14, 2025.**</span>
 
 ## Invited keynote speakers
 
