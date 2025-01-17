@@ -26,7 +26,7 @@ To submit: [**complete the form here**](https://forms.gle/s6vA5bnYCurdYjoB9)
 <span style="color:red">**Deadline: March 14, 2025.**</span>
 
 ## Invited keynote speakers
-
+- **Vicente Raja**, University of Murcia
 
 ## Contact us
 
