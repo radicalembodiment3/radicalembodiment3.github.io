@@ -25,6 +25,9 @@ Submission form: https://forms.gle/s6vA5bnYCurdYjoB9
 
 ## Invited keynote speakers
 
+
+## Contact us
+
 If you have any questions, feel free to contact the organizers
 - **Ed Baggs** (ebag@sdu.dk).
 - **Sune Vork Steffensen** (s.v.steffensen@sdu.dk)
