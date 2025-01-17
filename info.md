@@ -26,5 +26,8 @@ title: Practical information
 - Kragsbjerggaard Vandrerhjem & Hotel
 - DanHostel, at the main train station
 
+## Getting around in Odense
+The easiest way to get from central Odense to the university campus is to take the tram. Find info on the trams [here](https://www.odenseletbane.dk/english/travel-with-the-tram).
+
 ## Places to eat
 - Storms Pakhus -- a converted warehouse with food stalls and bars
