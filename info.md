@@ -17,17 +17,19 @@ title: Practical information
 ## Where to stay
 
 **Hotels**
-- First Hotel Grand
-- Hotel Plaza
-- Hotel Odeon
-- Cabinn Hotel
+The best hotel options are centrally located near the main train station. Options include:
+- [First Hotel Grand](https://www.firsthotels.dk/hoteller/danmark/odense/first-hotel-grand/), located centrally, between the train station and the main shopping street
+- [Hotel Plaza](https://millinghotels.dk/hoteller/milling-hotel-plaza/), located around five minutes from the main train station
+- [Hotel Odeon](https://hotelodeon.dk/en/), located close to Hans Christian Anderson's birthplace and the Hans Christian Anderson Museum.
+- [Cabinn Hotel Odense](https://en.cabinn.com/hotel/cabinn-odense), a cheaper option located in the same building as the main train station
 
 **Hostels**
-- Kragsbjerggaard Vandrerhjem & Hotel
-- DanHostel, at the main train station
+Cheaper options are available, including Airbnb and hostels, including the following:
+- [Kragsbjerggaard Vandrerhjem & Hotel](https://kragsbjerggaard.com/), a hostel in an old manor house, located around halfway between the centre and campus 
+- [DanHostel Odense City](https://www.danhostel.dk/en/hostel/danhostel-odense-city), located next to the main train station
 
 ## Getting around in Odense
 The easiest way to get from central Odense to the university campus is to take the tram. Find info on the trams [here](https://www.odenseletbane.dk/english/travel-with-the-tram).
 
 ## Places to eat
-- Storms Pakhus -- a converted warehouse with food stalls and bars
+- [Storms Pakhus](https://stormspakhus.dk/) -- a converted warehouse with food stalls and bars.
