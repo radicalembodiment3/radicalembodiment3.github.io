@@ -5,6 +5,9 @@ subtitle: June 18–21, 2025 — University of Southern Denmark, Odense
 ---
 
 Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
+
 **Wednesday, June 18** Workshop: Introduction to Cognitive Ethnography
+
 **Thursday, June 19 and Friday June, 20** Dimensions of Radical Embodiment 3
+
 **Saturday, June 21** Workshop: Computational Creativity, Embodiment, and Problem Solving
