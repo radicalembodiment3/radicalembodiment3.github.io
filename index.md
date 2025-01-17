@@ -13,6 +13,9 @@ Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
 **Saturday, June 21** Workshop: Computational Creativity, Embodiment, and Problem Solving
 
 ## Call for contributions
+- Talk: submit your 15 minute talk 
+- Poster: Or poster!
+- Short contributions (5 minutes or less): Dop you have a question or idea that you want to share with the radical embodiment community and get feedback? You can also submit a short contribution.
 
 ## Invited keynote speakers
 
