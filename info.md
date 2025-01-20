@@ -31,5 +31,7 @@ Cheaper options are available, including Airbnb and hostels, including the follo
 ## Getting around in Odense
 The easiest way to get from central Odense to the university campus is to take the tram. Find info on the trams [here](https://www.odenseletbane.dk/english/travel-with-the-tram).
 
+A campus map for SDU Odense can be found [here](https://sdunet.dk/en/servicesider/teknisk-service/vejvisning-parkering-og-udeomraader/find-rundt-paa-sdu-sdu-maps). You can also download the SDU maps app on your Android or iOS device.
+
 ## Places to eat
 - [Storms Pakhus](https://stormspakhus.dk/) -- a converted warehouse with food stalls and bars.
