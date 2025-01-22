@@ -28,6 +28,7 @@ To submit: [**complete the form here**](https://forms.gle/s6vA5bnYCurdYjoB9)
 Notification of acceptance: March 31, 2025.
 
 ## Invited keynote speakers
+- **Sofie Pedersen**, Roskilde University
 - **Vicente Raja**, University of Murcia
 
 ## Contact us
