@@ -14,4 +14,4 @@ To submit: [**complete the form here**](https://forms.gle/s6vA5bnYCurdYjoB9)
 
 <span style="color:red">**Deadline: March 14, 2025.**</span>
 
-If you wish to attend the conference without submitting a contribution, send an email to Ed Baggs (ebag@sdu.dk).
+Registration will open in April. There is no fee to attend the conference.
