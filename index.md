@@ -5,6 +5,7 @@ subtitle: June 18–21, 2025 — University of Southern Denmark, Odense
 full-width: true
 ---
 
+<div class="text-center" style="max-width:500px">
 Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
 
 **Wednesday, June 18** Workshop: Introduction to Cognitive Ethnography
@@ -39,6 +40,8 @@ If you have any questions, feel free to contact the organizers
 - **Sune Vork Steffensen** (s.v.steffensen@sdu.dk)
 - **Sarah Bro Trasmundi** (sarbro@sdu.dk)
 - **Martyna Meyer** (mamey@sdu.dk)
+
+</div>
 
 <div style="text-align: center;">
 <img src="https://github.com/user-attachments/assets/7087a7ba-685f-4137-91c8-02a296c123f8" alt="SDU logo" width="200"/>
