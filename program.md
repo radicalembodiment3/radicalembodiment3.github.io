@@ -10,6 +10,6 @@ full-width: true
   <img src="{{ 'assets/img/problem_solving_poster.png' | relative_url }}" alt="Computational creativity, embodiment, and problem solving" width="250" />
 </div>
 
-<div  class="text-center"; style="max-width:600px; word-wrap:break-word;">
+<div class="text-center"; style="max-width:600px; word-wrap:break-word;">
 The full program will appear here.
 </div>
