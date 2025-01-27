@@ -12,11 +12,11 @@ title: Program
 
 The full program will appear here.
 
-  ## Wednesday, June 18
+## Wednesday, June 18
 
-  ## Thursday June 19
+## Thursday June 19
 
-  ## Friday, June 20
+## Friday, June 20
 
-  ## Saturday, June 21
+## Saturday, June 21
 
