@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Program
-full-width: true
 ---
 
 <div class="text-center">
@@ -11,8 +10,6 @@ full-width: true
 </div>
 
 
-<div class="text-center" style="max-width:600px">
-  <br/>
 The full program will appear here.
 
   ## Wednesday, June 18
@@ -22,4 +19,4 @@ The full program will appear here.
   ## Friday, June 20
 
   ## Saturday, June 21
-</div>
+
