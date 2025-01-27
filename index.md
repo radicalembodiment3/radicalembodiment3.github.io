@@ -4,6 +4,12 @@ title: Dimensions of Radical Embodiment 3
 subtitle: June 18–21, 2025 — University of Southern Denmark, Odense
 ---
 
+<div class="text-center">
+  <img src="{{ 'assets/img/cognitive_ethnography_poster.png' | relative_url }}" alt="Introduction to cognitive ethnography" width="200"/>
+  <img src="{{ 'assets/img/dre3_poster.png' | relative_url }}" alt="Dimensions of radical embodiment 3" width="200" />
+  <img src="{{ 'assets/img/problem_solving_poster.png' | relative_url }}" alt="Computational creativity, embodiment, and problem solving" width="200" />
+</div>
+
 Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
 
 **Wednesday, June 18** Workshop: Introduction to Cognitive Ethnography
