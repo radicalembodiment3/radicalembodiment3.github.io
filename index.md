@@ -2,6 +2,7 @@
 layout: home
 title: Dimensions of Radical Embodiment 3
 subtitle: June 18–21, 2025 — University of Southern Denmark, Odense
+full-width: true
 ---
 
 Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
