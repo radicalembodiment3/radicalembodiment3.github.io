@@ -12,5 +12,6 @@ full-width: true
 
 
 <div class="text-center" style="max-width:600px">
+  <br/>
 The full program will appear here.
 </div>
