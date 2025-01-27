@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Program
+full-width: true
 ---
 
 <div class="text-center">
