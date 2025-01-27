@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Dimensions of Radical Embodiment 3
+title: Dimensions of radical embodiment 3
 subtitle: June 18–21, 2025 — University of Southern Denmark, Odense
 ---
 
