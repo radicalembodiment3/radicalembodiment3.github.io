@@ -14,4 +14,12 @@ full-width: true
 <div class="text-center" style="max-width:600px">
   <br/>
 The full program will appear here.
+
+  ## Wednesday, June 18
+
+  ## Thursday June 19
+
+  ## Friday, June 20
+
+  ## Saturday, June 21
 </div>
