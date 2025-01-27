@@ -38,3 +38,6 @@ If you have any questions, feel free to contact the organizers
 - **Sune Vork Steffensen** (s.v.steffensen@sdu.dk)
 - **Sarah Bro Trasmundi** (sarbro@sdu.dk)
 - **Martyna Meyer** (mamey@sdu.dk)
+
+
+![sdu_logo](https://github.com/user-attachments/assets/7087a7ba-685f-4137-91c8-02a296c123f8)
