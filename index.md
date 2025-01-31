@@ -46,7 +46,7 @@ If you have any questions, feel free to contact the organizers
 - **Sarah Bro Trasmundi** (sarbro@sdu.dk)
 - **Martyna Meyer** (mamey@sdu.dk)
 
-The conference is supported by the Carlsberg Foundation, CF24-2332.
+The conference is supported by the Carlsberg Foundation, grant CF24-2332.
 
 <div style="text-align: center;">
 <img src="https://github.com/user-attachments/assets/7087a7ba-685f-4137-91c8-02a296c123f8" alt="SDU logo" width="200"/>
