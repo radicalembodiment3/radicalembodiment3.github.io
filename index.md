@@ -47,7 +47,7 @@ If you have any questions, feel free to contact the organizers
 
 Problem solving workshop:
 - **Martyna Meyer** (mamey@sdu.dk)
-- **Bailey Fernandez** (baily_f@mit.edu)
+- **Bailey Fernandez** (bailey_f@mit.edu)
 
 The conference is supported by the Carlsberg Foundation, grant CF24-2332.
 
