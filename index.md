@@ -44,7 +44,10 @@ If you have any questions, feel free to contact the organizers
 - **Ed Baggs** (ebag@sdu.dk).
 - **Sune Vork Steffensen** (s.v.steffensen@sdu.dk)
 - **Sarah Bro Trasmundi** (sarbro@sdu.dk)
+
+Problem solving workshop:
 - **Martyna Meyer** (mamey@sdu.dk)
+- **Bailey Fernandez** (baily_f@mit.edu)
 
 The conference is supported by the Carlsberg Foundation, grant CF24-2332.
 
