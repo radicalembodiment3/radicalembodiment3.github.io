@@ -42,6 +42,9 @@ domains: The case of reading. _Social Epistemology_, 38(1), 13–27. https://doi
 
 ## Program
 
+**Wednesday June 18, 2025**
+Location: DIAS Seminar Room, SDU Odense Campus
+
 0930-1000 Introduction: What is a task? (EB)
 
 1000-1030 What is cognitive ethnography? (SBT)
