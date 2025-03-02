@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wednesday June 18 — Intro to cognitive ethnography
+title: Wednesday June 18
 ---
 
 <div class="text-center">
