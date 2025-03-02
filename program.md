@@ -4,7 +4,7 @@ title: Program
 ---
 
 <div class="text-center">
-  <img href="ice" src="{{ 'assets/img/cognitive_ethnography_poster.png' | relative_url }}" alt="Introduction to cognitive ethnography" width="200"/>
+  <a href="ice.md"><img src="{{ 'assets/img/cognitive_ethnography_poster.png' | relative_url }}" alt="Introduction to cognitive ethnography" width="200"/></a>
   <img src="{{ 'assets/img/dre3_poster.png' | relative_url }}" alt="Dimensions of radical embodiment 3" width="200" />
   <img src="{{ 'assets/img/problem_solving_poster.png' | relative_url }}" alt="Computational creativity, embodiment, and problem solving" width="200" />
 </div>
