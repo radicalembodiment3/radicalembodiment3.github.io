@@ -9,7 +9,7 @@ title: Intro to cognitive ethnography
 
 ## Overview
 
-This one-day Ph.D. course will provide an introduction to the theory and methods of cognitive ethnography, focusing on cognitive event analysis, a method pioneered at SDU’s Centre for Human Interactivity (Steffensen, 2013; Trasmundi, 2020).
+This one-day workshop will provide an introduction to the theory and methods of cognitive ethnography, focusing on cognitive event analysis, a method pioneered at SDU’s Centre for Human Interactivity (Steffensen, 2013; Trasmundi, 2020).
 
 This is a method for observing how individuals and teams solve problems in everyday settings. It has been applied in healthcare, aviation safety, and higher education (Baggs and Steffensen, 2024; Trasmundi et al., 2024; Trasmundi and Steffensen, 2016). 
 
