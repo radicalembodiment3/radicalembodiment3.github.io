@@ -7,6 +7,12 @@ title: Intro to cognitive ethnography
   <img src="{{ 'assets/img/cognitive_ethnography_poster.png' | relative_url }}" alt="Introduction to cognitive ethnography" width="600"/>
 </div>
 
+## Overview
+
+This one-day Ph.D. course will provide an introduction to the theory and methods of cognitive ethnography, focusing on cognitive event analysis, a method pioneered at SDU’s Centre for Human Interactivity (Steffensen, 2013; Trasmundi, 2020).
+
+This is a method for observing how individuals and teams solve problems in everyday settings. It has been applied in healthcare, aviation safety, and higher education (Baggs and Steffensen, 2024; Trasmundi et al., 2024; Trasmundi and Steffensen, 2016). 
+
 ## Preparation
 
 **Data**
@@ -33,3 +39,21 @@ Trasmundi, S. B., Baggs, E., Toro, J., & Steffensen, S. V. (2024). Expertise in 
 domains: The case of reading. _Social Epistemology_, 38(1), 13–27. https://doi.org/10.1080/02691
 728.2023.2266690
 [download pdf](Trasmundi et al, Expertise in non-well0defined task domains, 2024.pdf)
+
+## Program
+
+0930-1000 Introduction: What is a task? (EB)
+
+1000-1030 What is cognitive ethnography? (SBT)
+
+1030-1100 _Break_
+
+1100-1145 What is cognitive event analysis? (SVS)
+
+1145-1300 _Lunch_
+
+1300-1530 Participants work on mini projects
+
+1530-1600 _Break_
+
+1600-1700 Presentation of project work
