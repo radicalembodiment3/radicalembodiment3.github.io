@@ -15,7 +15,7 @@ Steffensen, S. V., Vallée-Tourangeau, F., & Vallée-Tourangeau, G. (2016). Cogn
 problem-solving task: A qualitative method for investigating interactivity in the 17 animals problem.
 Journal of Cognitive Psychology, 28(1), 79–105. https://doi.org/10.1080/20445911.2015.1095193
 
-[download pdf][Steffensen et al, 17 animals problem, 2015.pdf]
+[download pdf](Steffensen et al, 17 animals problem, 2015.pdf)
 
 Trasmundi, S. B., & Steffensen, S. V. (2016). Meaning emergence in the ecology of dialogical
 systems. Psychology of Language and Communication, 20(2), 154–181. https://doi.org/10.1515/
