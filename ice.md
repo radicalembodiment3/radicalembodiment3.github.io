@@ -28,8 +28,7 @@ _Journal of Cognitive Psychology_, 28(1), 79–105. https://doi.org/10.1080/2044
 [download pdf](Steffensen et al, 17 animals problem, 2015.pdf)
 
 Trasmundi, S. B., & Steffensen, S. V. (2016). Meaning emergence in the ecology of dialogical
-systems. _Psychology of Language and Communication_, 20(2), 154–181. https://doi.org/10.1515/
-plc-2016-0009
+systems. _Psychology of Language and Communication_, 20(2), 154–181. https://doi.org/10.1515/plc-2016-0009
 
 [download pdf](Trasmundi and Steffensen, Meaning emergence in the ecology of dialogical systems, 2016.pdf)
 
