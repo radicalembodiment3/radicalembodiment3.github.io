@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program
+title: DRE3
 ---
 
 <div class="text-center">
