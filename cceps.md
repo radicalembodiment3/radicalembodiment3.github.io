@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Saturday June 21 - Cognitive creativity, embodiment, and problem solving
+title: Saturday June 21
 ---
 
 <div class="text-center">
