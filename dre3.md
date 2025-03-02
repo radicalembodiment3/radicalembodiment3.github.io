@@ -1,6 +1,6 @@
 ---
 layout: page
-title: June 19-20, 2025
+title: Program
 ---
 
 <div class="text-center">
