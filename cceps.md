@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Saturday June 21
+title: Problem solving workshop
 ---
 
 <div class="text-center">
