@@ -9,4 +9,4 @@ title: Wednesday June 18 — Intro to cognitive ethnography
 
 ## Preparation
 
-Participants should read following three texts ahead of the course.
+Participants should read the following three texts ahead of the course.
