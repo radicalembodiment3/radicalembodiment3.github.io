@@ -10,8 +10,6 @@ We will consider contributions in the following formats.
 
 How to submit: Send an abstract, maximum 200 words.
 
-To submit: [**complete the form here**](https://forms.gle/s6vA5bnYCurdYjoB9)
-
-<span style="color:red">**Deadline: March 14, 2025.**</span>
+<span style="color:red">**The call for contributions is now closed.**</span>
 
 Registration will open in April. There is no fee to attend the conference.
