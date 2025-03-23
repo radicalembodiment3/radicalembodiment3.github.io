@@ -21,17 +21,15 @@ Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
 There is no conference fee to attend any of the events.
 
 ## Call for contributions
-- Talk: submit your 15 minute talk 
-- Poster: Or poster!
-- Short contributions (5 minutes or less): Do you have a question or idea that you want to share with the radical embodiment community and get feedback? You can also submit a short contribution.
-
-How to submit: Send an abstract, maximum 200 words.
-
-To submit: [**complete the form here**](https://forms.gle/s6vA5bnYCurdYjoB9)
-
-<span style="color:red">**Deadline: March 14, 2025.**</span>
+The call for contributions is now closed.
 
 Notification of acceptance: March 31, 2025.
+
+## Registration
+
+To register: [**complete the form here**](https://forms.gle/iWnav1jLTM8XXxPd8)
+
+<span style="color:red">**Deadline for registration: May 16, 2025.**</span>
 
 ## Invited keynote speakers
 - **Manuel Heras-Escribano**, University of Granada
