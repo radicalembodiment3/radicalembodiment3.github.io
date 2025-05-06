@@ -11,7 +11,9 @@ The one-day workshop **Computational creativity, embodiment, and problem solving
 - **Martyna Meyer** (mamey@sdu.dk), SDU
 - **Bailey Fernandez** (bailey_f@mit.edu), MIT
 
-**Saturday June 21, 2025**
+<br/><br/>
+
+**Saturday June 21, 2025**<br/>
 Location: DIAS Seminar Room, SDU Odense Campus
 
 09:00 – 09:30 &emsp; Welcome coffee and registration
@@ -44,6 +46,7 @@ Location: DIAS Seminar Room, SDU Odense Campus
 
 16:30 &emsp; _End of the workshop_
 
+<br/><br/>
 
 # Abstracts
 
