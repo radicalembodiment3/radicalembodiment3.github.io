@@ -17,7 +17,7 @@ Location: Dialogen, SDU
 09:15 – 09:30 Introductory remarks
 
 09:30 – 10:30 Keynote: **Vicente Raja**, University of Murcia<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A brain for the radical embodied mind
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "A brain for the radical embodied mind"
 
 10:30 – 11:00 Break
 
