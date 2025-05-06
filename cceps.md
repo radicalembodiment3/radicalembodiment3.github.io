@@ -14,28 +14,35 @@ The one-day workshop **Computational creativity, embodiment, and problem solving
 **Saturday June 21, 2025**
 Location: DIAS Seminar Room, SDU Odense Campus
 
-09:00 – 09:30 Welcome coffee and registration
+09:00 – 09:30 &emsp; Welcome coffee and registration
 
-09:30 – 10:00 Introduction to the workshop
-Martyna Meyer (SDU) and Bailey Fernandez (MIT)
+09:30 – 10:00 &emsp; Introduction to the workshop<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Martyna Meyer (SDU) and Bailey Fernandez (MIT)
 
-10:00 – 11:00 Wendy Ross (London Metropolitan University)
+10:00 – 11:00 &emsp; **Wendy Ross** (London Metropolitan University)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Hylomentation in metareasoning"
 
-10:30 – 11:00 _Break_
+10:30 – 11:00 &emsp; _Break_
 
-11:00 – 12:00 Ana-Maria Olteteanu (Constructor University Bremen)
+11:00 – 12:00 &emsp; **Ana-Maria Olteteanu** (Constructor University Bremen)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "How Not to Be A Lonely A.I.:<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Exploring Linguistic and Visual Problem Solving Through Games"
 
-12:00 – 13:00 _Lunch_
+12:00 – 13:00 &emsp; _Lunch_
 
-13:00 – 14:00 Sotirios Kotsopoulos (MIT / National Technical University of Athens)
+13:00 – 14:00 &emsp; **Sotirios Kotsopoulos** (MIT / National Technical University of Athens)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Design without Representation"
 
-14:00 – 15:00 Sune Vork Steffensen (SDU)
+14:00 – 15:00 &emsp; **Sune Vork Steffensen** (SDU)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Problem solving on the edge"
 
-15:00 – 15:30 _Break_
+15:00 – 15:30 &emsp; _Break_
 
-15:30 – 16:30 Benjamin Angerer (Bielefeld University)
+15:30 – 16:30 &emsp; **Benjamin Angerer** (Bielefeld University)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Where Do Problem Spaces Come From?<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; On Metaphors and Representational Change"
 
-16:30 _End of the workshop_
+16:30 &emsp; _End of the workshop_
 
 
 # Abstracts
