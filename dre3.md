@@ -102,7 +102,7 @@ Location: Dialogen, SDU
 
 12:30 – 13:30 &emsp; _Lunch_
 
-13:30 – 14:50 &emsp; Session: Letters and numbers
+13:30 – 14:50 &emsp; Session: Numbers and letters
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Ilir Isufi, University of Cincinnati<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Culture, language, and cognition:<br/>
