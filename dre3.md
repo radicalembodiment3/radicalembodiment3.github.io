@@ -26,12 +26,8 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Laura Mojica, University of the Basque Country<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Sensorimotor incorporation: An operational definition"
 
-<br/>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Marco Facchin, University of Antwerp</br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Marco Facchin, University of Antwerp<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Radical embodiment and cognitive ontology"
-
-<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; David Sanchez, University of Granada &<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Joan Camarena, University of València<br/>
@@ -45,18 +41,12 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Robyn Wilford, University of Toronto<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Radical embodied memory"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Elena Ostos, Université Grenoble Alpes<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Embodied generalised episodic remembering"
-
-<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; L. N. Wyman, Maryland University of Integrative Health<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Perceptual justification and place: <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Merleau-Ponty & Seigel on place-making & memory"
-
-<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jelle Bruineberg, University of Copenhagen<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Attention in radical embodiment"
@@ -71,13 +61,9 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "The plant cognitive revolution:<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; How plants engineered their own world"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Miguel Segundo-Ortin, University of Murcia<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "A world of minds: Ecological psychology as a<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; framework for comparative cognition"
-
-<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Matteo Antonelli, University of Urbino<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Beyond morphological computation:<br/>
@@ -103,22 +89,14 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Matt Miller-Dicks, University of Portsmouth<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Holistic representative design"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Guilherme Sanches de Oliveira, University of Murcia<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Affordances in the wild"
-
-<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Doug Hardman, Bournemouth University<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Wayfinding in the wild"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Moritz Bammel, Leuphana University Leuneburg<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Ecological psychology meets political philosophy of mind"
-
-<br/>
 
 11:20 – 12:30 &emsp; Poster session
 
@@ -130,24 +108,16 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Culture, language, and cognition:<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; An anthropological critique of linguistic relativity research"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Simon Harrison, City University of Hong Kong<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Gesture studies meets radical embodied cognitive science <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (and the problem of gestures without bodies)"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Max Jones, University of Bristol<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "An ecological approach to numerical perception"
-
-<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Gilberto Gauche, University of Bologna<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Worldmaking as socially distributed cognition<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; The account of Mary Douglas"
-
-<br/>
 
 14:50 – 15:20 &emsp; _Break_
 
@@ -157,23 +127,15 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thomas van Es, University of the Basque Country<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Against fictionlism of virtual actions"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Line Marie Simonsen, University of Southern Denmark<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Exploring human interaction with AI and LLMs in<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  healthcare from a distributed perspective"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; José Romero Garcia, University of Murcia<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "An ecological approach to psychedlic perception"
 
-<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Carla Cao, University of Murcia<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "The body as an acoustic medium in sound perception"
-
-<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sophie Morrissey & Shaun Gallagher, University of Memphis<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Presence and co-presence in aesthetic experiences<br/>
