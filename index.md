@@ -27,9 +27,7 @@ Notification of acceptance: March 31, 2025.
 
 ## Registration
 
-To register: [**complete the form here**](https://forms.gle/iWnav1jLTM8XXxPd8)
-
-<span style="color:red">**Deadline for registration: May 16, 2025.**</span>
+Registration is now closed.
 
 ## Invited keynote speakers
 - **Manuel Heras-Escribano**, University of Granada
