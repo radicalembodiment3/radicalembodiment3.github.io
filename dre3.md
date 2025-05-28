@@ -134,9 +134,6 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; José Romero Garcia, University of Murcia<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "An ecological approach to psychedlic perception"
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Carla Cao, University of Murcia<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "The body as an acoustic medium in sound perception"
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sophie Morrissey & Shaun Gallagher, University of Memphis<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Presence and co-presence in aesthetic experiences<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; of live performance"
