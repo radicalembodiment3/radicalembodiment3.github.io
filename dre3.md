@@ -72,7 +72,7 @@ Location: Dialogen, SDU
 16:40 – 17:00 &emsp; _Break_
 
 17:00 – 18:00 &emsp; Keynote: **Sofie Pedersen**, Roskilde University<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (title tba)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "What a difference <s>a day</s> radical embodiment makes..."
 
 <br/><br/><br/><br/><br/><br/>
 
@@ -127,7 +127,7 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thomas van Es, University of the Basque Country<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Against fictionlism of virtual actions"
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Line Marie Simonsen, University of Southern Denmark<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Line Maria Simonsen, University of Southern Denmark<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Exploring human interaction with AI and LLMs in<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  healthcare from a distributed perspective"
 
