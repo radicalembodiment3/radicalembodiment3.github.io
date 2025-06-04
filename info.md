@@ -56,7 +56,7 @@ To find the rooms:
 - Walk along the main hallway (Gydehutten) until you get to Krogene
 - Turn right at Krogene and walk straight all the way to the end
 
-**Thursday / Friday : DRE3**
+**Thursday / Friday : Dialogen**
 - Get off the tram at the SDU Syd / Hospital Nord stop
 - The conference will take place in Dialogen, on the ground floor of the nearest building when you get off the tram
 
