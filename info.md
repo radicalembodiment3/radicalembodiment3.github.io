@@ -37,6 +37,8 @@ It's also possible to hire bikes from some hotels or to hire shared bikes from t
 
 A campus map for SDU Odense can be found [here](https://sdunet.dk/en/servicesider/teknisk-service/vejvisning-parkering-og-udeomraader/find-rundt-paa-sdu-sdu-maps). You can also download the SDU maps app on your Android or iOS device.
 
+To download an annotated version of the map showing the conference rooms, click on the image below.
+
 <a href="assets/img/dre3-map.pdf"><img src="{{ 'assets/img/dre-map.png' | relative_url }}" alt="Map of conference locations" width="600"/></a>
 
 To find the rooms:
