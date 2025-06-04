@@ -45,7 +45,7 @@ A campus map for SDU Odense can be found [here](https://sdunet.dk/en/serviceside
 To download an annotated version of the map showing the conference rooms, click on the image below.
 
 <div class="text-center">
-<a href="/assets/img/dre3-map.pdf"><img src="{{ '/assets/img/dre3-map.png' | relative_url }}" alt="Map of conference locations" width="600"/></a>
+<a href="dre3-map.pdf"><img src="{{ 'assets/img/dre3-map.png' | relative_url }}" alt="Map of conference locations" width="600"/></a>
 </div>
 
 To find the rooms:
