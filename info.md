@@ -51,7 +51,7 @@ To download an annotated version of the map showing the conference rooms, click 
 To find the rooms:
 
 **Wednesday / Saturday workshops : DIAS Seminar Room**
-- Get off the tram at the Campus Odense stop (the main entrance to the campus)
+- Get off the tram at the Campus Odense stop (at the main entrance to the campus)
 - Enter the main entrance and go up the stairs
 - Walk along the main hallway (Gydehutten) until you get to Krogene
 - Turn right at Krogene and walk straight all the way to the end
