@@ -50,13 +50,13 @@ To download an annotated version of the map showing the conference rooms, click 
 
 To find the rooms:
 
-Wednesday / Saturday workshops : DIAS Seminar Room
+**Wednesday / Saturday workshops : DIAS Seminar Room**
 - Get off the tram at the Campus Odense stop (the main entrance to the campus)
 - Enter the main entrance and go up the stairs
 - Walk along the main hallway (Gydehutten) until you get to Krogene
 - Turn right at Krogene and walk straight all the way to the end
 
-Thursday / Friday : DRE3
+**Thursday / Friday : DRE3**
 - Get off the tram at the SDU Syd / Hospital Nord stop
 - The conference will take place in Dialogen, on the ground floor of the nearest building when you get off the tram
 
