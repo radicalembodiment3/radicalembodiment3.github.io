@@ -20,19 +20,20 @@ Dimensions of Radical Embodiment 3 is a three-in-one event comprising:
 
 There is no conference fee to attend any of the events.
 
-## Call for contributions
-The call for contributions is now closed.
-
-Notification of acceptance: March 31, 2025.
-
-## Registration
-
-Registration is now closed.
-
 ## Invited keynote speakers
 - **Manuel Heras-Escribano**, University of Granada
 - **Sofie Pedersen**, Roskilde University
 - **Vicente Raja**, University of Murcia
+
+## Information for presenters
+
+Regular talks will be 15 minutes + 5 minutes for Q&A.
+
+Flash talks are 5 minutes in total.
+
+Posters: There is no specific size or format requirement. You should print and bring your own poster.
+
+Information on accommodation, transport, etc. can be found on the [Practical info](/info) page.
 
 ## Contact us
 
