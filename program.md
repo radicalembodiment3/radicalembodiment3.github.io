@@ -66,7 +66,7 @@ This page gives an overview of the program. For the full program for each event 
 **Dimensions of radical embodiment 3: Day 2** \[<a href="/dre3">full program</a>\]<br/>
 **Location: Dialogen, SDU Odense Campus**
 
-0900-1000 Keynote: Manuel Heras-Escribano (University of Granada), (title tba)
+0900-1000 Keynote: **Manuel Heras-Escribano** (University of Granada), (title tba)
 
 1000-1120 Session: Radical embodiment beyond the laboratory
 
