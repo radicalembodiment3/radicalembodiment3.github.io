@@ -34,4 +34,6 @@ The easiest way to get from central Odense to the university campus is to take t
 A campus map for SDU Odense can be found [here](https://sdunet.dk/en/servicesider/teknisk-service/vejvisning-parkering-og-udeomraader/find-rundt-paa-sdu-sdu-maps). You can also download the SDU maps app on your Android or iOS device.
 
 ## Places to eat
-- [Storms Pakhus](https://stormspakhus.dk/) -- a converted warehouse with food stalls and bars.
+- [Storms Pakhus](https://stormspakhus.dk/) \[<a href="https://maps.app.goo.gl/APFKgGanAPJZEeoG7">Google maps</a>\] -- a converted warehouse with food stalls and bars.
+- Vintapperstræde \[<a href="https://maps.app.goo.gl/uXt7w26cqdvKW5bZ6">Google maps</a>\] -- bars and restaurants, including Christian Firtal (craft beer bar) and Maracantonio Trattoria (Italian restaurant)
+- Gråbrødre Plads \[<a href="https://maps.app.goo.gl/KoWGrFFSMAXdu7bZ7">Google maps</a>\] -- bars and restaurants, including Amy's Bar and Winehouse
