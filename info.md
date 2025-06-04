@@ -37,6 +37,20 @@ It's also possible to hire bikes from some hotels or to hire shared bikes from t
 
 A campus map for SDU Odense can be found [here](https://sdunet.dk/en/servicesider/teknisk-service/vejvisning-parkering-og-udeomraader/find-rundt-paa-sdu-sdu-maps). You can also download the SDU maps app on your Android or iOS device.
 
+<a href="assets/img/dre3-map.pdf"><img src="{{ 'assets/img/dre-map.png' | relative_url }}" alt="Map of conference locations" width="600"/></a>
+
+To find the rooms:
+
+Wednesday / Saturday workshops : DIAS Seminar Room
+- Get off the tram at the Campus Odense stop (the main entrance to the campus)
+- Enter the main entrance and go up the stairs
+- Walk along the main hallway (Gydehutten) until you get to Krogene
+- Turn right at Krogene and walk straight all the way to the end
+
+Thursday / Friday : DRE3
+- Get off the tram at the SDU Syd / Hospital Nord stop
+- The conference will take place in Dialogen, on the ground floor of the nearest building when you get off the tram
+
 ## Places to eat
 - [Storms Pakhus](https://stormspakhus.dk/) \[<a href="https://maps.app.goo.gl/APFKgGanAPJZEeoG7">Google maps</a>\] -- a converted warehouse with food stalls and bars.
 - Vintapperstræde \[<a href="https://maps.app.goo.gl/uXt7w26cqdvKW5bZ6">Google maps</a>\] -- bars and restaurants, including Christian Firtal (craft beer bar) and Maracantonio Trattoria (Italian restaurant)
