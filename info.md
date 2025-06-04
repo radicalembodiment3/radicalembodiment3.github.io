@@ -42,6 +42,7 @@ It's also possible to hire bikes from some hotels or to hire shared bikes from t
 
 A campus map for SDU Odense can be found [here](https://sdunet.dk/en/servicesider/teknisk-service/vejvisning-parkering-og-udeomraader/find-rundt-paa-sdu-sdu-maps). You can also download the SDU maps app on your Android or iOS device.
 
+<!--
 To download an annotated version of the map showing the conference rooms, click on the image below.
 
 <div class="text-center">
@@ -55,6 +56,7 @@ Wednesday / Saturday workshops : DIAS Seminar Room
 - Enter the main entrance and go up the stairs
 - Walk along the main hallway (Gydehutten) until you get to Krogene
 - Turn right at Krogene and walk straight all the way to the end
+-->
 
 Thursday / Friday : Dialogen
 - Get off the tram at the SDU Syd / Hospital Nord stop
