@@ -36,10 +36,7 @@ Location: Dialogen, SDU
 
 12:00 – 13:00 &emsp; _Lunch_
 
-13:00 – 14:20 &emsp; Session: Memory and attention
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Robyn Wilford, University of Toronto<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Radical embodied memory"
+13:00 – 14:00 &emsp; Session: Memory and attention
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Elena Ostos, Université Grenoble Alpes<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Embodied generalised episodic remembering"
@@ -51,9 +48,9 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jelle Bruineberg, University of Copenhagen<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Attention in radical embodiment"
 
-14:20 – 14:40 &emsp; _Break_
+14:00 – 14:30 &emsp; _Break_
 
-14:40 – 15:40 &emsp; Flash talks / poster pitches
+14:30 – 15:40 &emsp; Flash talks / poster pitches
 
 15:40 - 16:40 &emsp; Session: Non-humans
 
