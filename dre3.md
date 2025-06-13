@@ -12,7 +12,7 @@ title: DRE3
 Dimensions of Radical Embodiment, Day 1<br/>
 Location: Dialogen, SDU
 
-08:30 – 09:15 &emsp; Welcome coffee and registration
+08:30 – 09:15 &emsp; _Welcome coffee and croissant
 
 09:15 – 09:30 &emsp; Introductory remarks
 
@@ -34,7 +34,7 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "An organizational approach to affordances:<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Meaning between information and dynamics"
 
-12:00 – 13:00 &emsp; _Lunch_
+12:00 – 13:00 &emsp; _Lunch (provided)_
 
 13:00 – 14:00 &emsp; Session: Memory and attention
 
@@ -78,6 +78,8 @@ Location: Dialogen, SDU
 Dimensions of Radical Embodiment, Day 2<br/>
 Location: Dialogen, SDU
 
+08:30 – 09:00 _Coffee and croissant_
+
 09:00 – 10:00 &emsp; Keynote: **Manuel Heras-Escribano**, University of Granada<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  (title tba)
 
@@ -97,7 +99,7 @@ Location: Dialogen, SDU
 
 11:20 – 12:30 &emsp; Poster session
 
-12:30 – 13:30 &emsp; _Lunch_
+12:30 – 13:30 &emsp; _Lunch (provided)_
 
 13:30 – 14:50 &emsp; Session: Numbers and letters
 
