@@ -12,7 +12,7 @@ title: DRE3
 Dimensions of Radical Embodiment, Day 1<br/>
 Location: Dialogen, SDU
 
-08:30 – 09:15 &emsp; _Welcome coffee and croissant
+08:30 – 09:15 &emsp; _Welcome coffee and croissant_
 
 09:15 – 09:30 &emsp; Introductory remarks
 
