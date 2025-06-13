@@ -90,7 +90,7 @@ This page gives an overview of the program. For the full program for each event 
 **Workshop: Computational creativity, embodiment, and problem solving** \[<a href="/cceps">full program</a>\]<br/>
 **Location: DIAS Seminar Room, SDU Odense Campus**
 
-0900-0930 _Welcome coffee and croissant
+0900-0930 _Welcome coffee and croissant_
 
 0930-1000 Introduction to the workshop
 
