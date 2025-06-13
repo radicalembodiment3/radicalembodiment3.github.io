@@ -16,7 +16,7 @@ The one-day workshop **Computational creativity, embodiment, and problem solving
 **Saturday June 21, 2025**<br/>
 Location: DIAS Seminar Room, SDU Odense Campus
 
-09:00 – 09:30 &emsp; Welcome coffee and registration
+09:00 – 09:30 &emsp; _Welcome coffee and croissant_
 
 09:30 – 10:00 &emsp; Introduction to the workshop<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Martyna Meyer (SDU) and Bailey Fernandez (MIT)
@@ -30,7 +30,7 @@ Location: DIAS Seminar Room, SDU Odense Campus
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "How Not to Be A Lonely A.I.:<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Exploring Linguistic and Visual Problem Solving Through Games"
 
-12:00 – 13:00 &emsp; _Lunch_
+12:00 – 13:00 &emsp; _Lunch (provided)_
 
 13:00 – 14:00 &emsp; **Sotirios Kotsopoulos** (MIT / National Technical University of Athens)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Design without Representation"
