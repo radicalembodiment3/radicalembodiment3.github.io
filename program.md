@@ -16,6 +16,8 @@ This page gives an overview of the program. For the full program for each event 
 **Workshop: Introduction to cognitive ethnography** \[<a href="/ice">full program</a>\]<br/>
 **Location: DIAS Seminar Room, SDU Odense Campus**
 
+0900-1000 _Welcome with coffee and croissant_
+
 0930-1000 Introduction: What is a task? (EB)
 
 1000-1030 What is cognitive ethnography? (SBT)
@@ -24,7 +26,7 @@ This page gives an overview of the program. For the full program for each event 
 
 1100-1145 What is cognitive event analysis? (SVS)
 
-1145-1300 _Lunch_
+1145-1300 _Lunch (provided)_
 
 1300-1530 Participants work on mini projects
 
@@ -37,7 +39,7 @@ This page gives an overview of the program. For the full program for each event 
 **Dimensions of radical embodiment 3: Day 1** \[<a href="/dre3">full program</a>\]<br/>
 **Location: Dialogen, SDU Odense Campus**
 
-0830-0915 _Welcome coffee and registration_
+0830-0915 _Welcome coffee and croissant_
 
 0915-0930 Introductory remarks
 
@@ -47,7 +49,7 @@ This page gives an overview of the program. For the full program for each event 
 
 1100-1200 Session: The body and the world
 
-1200-1300 _Lunch_
+1200-1300 _Lunch (provided)_
 
 1300-1400 Session: Memory and attention
 
@@ -66,13 +68,15 @@ This page gives an overview of the program. For the full program for each event 
 **Dimensions of radical embodiment 3: Day 2** \[<a href="/dre3">full program</a>\]<br/>
 **Location: Dialogen, SDU Odense Campus**
 
+0830-0900 _Welcome coffee and croissant_
+
 0900-1000 Keynote: **Manuel Heras-Escribano** (University of Granada), (title tba)
 
 1000-1120 Session: Radical embodiment beyond the laboratory
 
 1120-1230 Poster session
 
-1230-1330 _Lunch_
+1230-1330 _Lunch (provided)_
 
 1330-1450 Session: Numbers and letters
 
@@ -86,7 +90,7 @@ This page gives an overview of the program. For the full program for each event 
 **Workshop: Computational creativity, embodiment, and problem solving** \[<a href="/cceps">full program</a>\]<br/>
 **Location: DIAS Seminar Room, SDU Odense Campus**
 
-0900-0930 Welcome coffee and registration
+0900-0930 _Welcome coffee and croissant
 
 0930-1000 Introduction to the workshop
 
@@ -94,7 +98,7 @@ This page gives an overview of the program. For the full program for each event 
 
 1100-1200 **Ana-Maria Olteteanu** (Constructor University Bremen) “How Not to Be A Lonely A.I.: Exploring Linguistic and Visual Problem Solving Through Games”
 
-1200-1300 _Lunch_
+1200-1300 _Lunch (provided)_
 
 1300-1400 **Sotirios Kotsopoulos** (MIT / National Technical University of Athens) “Design without Representation”
 
