@@ -7,6 +7,8 @@ title: DRE3
   <img src="{{ 'assets/img/dre3_poster.png' | relative_url }}" alt="Dimensions of radical embodiment 3" width="600" />
 </div>
 
+[Book of abstract](DRE3_book_of_abstracts.pdf) (pdf)
+
 **Thursday June 19, 2025**
 
 Dimensions of Radical Embodiment, Day 1<br/>
