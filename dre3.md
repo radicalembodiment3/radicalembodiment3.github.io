@@ -23,7 +23,8 @@ Location: Dialogen, SDU
 
 11:00 – 12:00 &emsp; Session: The body and the world
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Laura Mojica, University of the Basque Country<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Laura Mojica and Ezequiel Di Paolo,<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; University of the Basque Country<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Sensorimotor incorporation: An operational definition"
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Marco Facchin, University of Antwerp<br/>
