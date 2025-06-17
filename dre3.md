@@ -55,19 +55,12 @@ Location: Dialogen, SDU
 
 14:30 – 15:40 &emsp; Flash talks / poster pitches
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Francesco Consiglio (University of Valencia),<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; “Enactive narratives and material engagement”<br/>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hannah Moss (University of Liverpool),<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; “Unravelling binaries:<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Perception/action and ur-intentionality “<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Alexander Hölken (Ruhr-University Bochum),<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; “Coordinative structures in agent-environment systems”<br/>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Ayșe Uslu,<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; “Enactive Resilience:<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; A Systemic Ethics Approach to Climate Governance”<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Calum Sims (University of Bristol),<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; “Radically embodied introspection,<br/>
