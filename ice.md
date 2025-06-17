@@ -45,17 +45,17 @@ domains: The case of reading. _Social Epistemology_, 38(1), 13–27. https://doi
 **Wednesday June 18, 2025**
 Location: DIAS Seminar Room, SDU Odense Campus
 
-0900-0930 _Welcome with coffee and croissant_
+0900-0945 _Welcome with coffee and croissant_
 
-0930-1000 Introduction: What is a task? (EB)
+0945-1015 Introduction: What is a task? (EB)
 
-1000-1030 What is cognitive ethnography? (SBT)
+1015-1045 What is cognitive ethnography? (SBT)
 
-1030-1100 _Break_
+1045-1115 _Break_
 
-1100-1145 What is cognitive event analysis? (SVS)
+1115-1200 What is cognitive event analysis? (SVS)
 
-1145-1300 _Lunch (provided)_
+1200-1300 _Lunch (provided)_
 
 1300-1530 Participants work on mini projects
 
