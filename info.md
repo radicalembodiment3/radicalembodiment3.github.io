@@ -31,7 +31,7 @@ Cheaper options are available, including Airbnb and hostels, including the follo
 ## Getting around in Odense
 The easiest way to get from central Odense to the university campus is to take the tram. Find info on the trams [here](https://www.odenseletbane.dk/english/travel-with-the-tram).
 
-Note: If you’re planning to take the tram, you’ll need to download an app called Rejsebillet. The default ticket is 27kr, however if you click on the button at the bottom marked “Other tickets” and select one of the two Odense options. It’s 10kr if you’re under 26 years old and 15 kr for the rest of us. The ticket is valid for 75 minutes.
+Note: If you’re planning to take the tram, you’ll need to download an app called Rejsebillet. The default ticket is 27kr, however you can get a cheaper ticker if you click on the button at the bottom marked “Other tickets” and select one of the two Odense options. It’s 10kr (~1.30€)if you’re under 26 years old and 15 kr (~2€) for the rest of us. The ticket is valid for 75 minutes.
 
 It's also possible to hire bikes from some hotels or to hire shared bikes from the app companies. You can also walk to campus. The walk from the town centre takes about an hour.
 
