@@ -119,7 +119,7 @@ Location: Dialogen, SDU
 08:30 – 09:00 _Coffee and croissant_
 
 09:00 – 10:00 &emsp; Keynote: **Manuel Heras-Escribano**, University of Granada<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  (title tba)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  "Radical embodiment and the origins of content"
 
 10:00 – 11:20 &emsp; Session: Radical embodiment beyond the laboratory
 
