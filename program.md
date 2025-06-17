@@ -70,7 +70,7 @@ This page gives an overview of the program. For the full program for each event 
 
 0830-0900 _Welcome coffee and croissant_
 
-0900-1000 Keynote: **Manuel Heras-Escribano** (University of Granada), (title tba)
+0900-1000 Keynote: **Manuel Heras-Escribano** (University of Granada), "Radical embodiment and the origins of content"
 
 1000-1120 Session: Radical embodiment beyond the laboratory
 
