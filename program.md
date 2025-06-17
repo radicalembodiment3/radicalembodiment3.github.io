@@ -26,7 +26,7 @@ This page gives an overview of the program. For the full program for each event 
 
 1115-1200 What is cognitive event analysis? (SVS)
 
-1145-1300 _Lunch (provided)_
+1200-1300 _Lunch (provided)_
 
 1300-1530 Participants work on mini projects
 
