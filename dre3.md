@@ -52,6 +52,17 @@ Location: Dialogen, SDU
 
 14:30 – 15:40 &emsp; Flash talks / poster pitches
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Francesco Consiglio (University of Valencia), “Enactive narratives and material engagement”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hannah Moss (University of Liverpool), “Unravelling binaries: Perception/action and ur-intentionality “<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Alexander Hölken (Ruhr-University Bochum), “Coordinative structures in agent-environment systems”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Ayșe Uslu, “Enactive Resilience: A Systemic Ethics Approach to Climate Governance”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Calum Sims (University of Bristol), “Radically embodied introspection, radically extended metacognition”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Radu Nedescu, “An enactivist model of how participatory sense-making is modulated by objects in autism”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Miguel Gramage (University of Valencia), “Perceiving relevance: Two views on agency and affordances perception”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Matteo Mauro Lenti, “An atmosphere of affordances: An argument for the enactive-ecological account of ASD”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; William Angkasa (Ruhr-University Bochum), “MIND Script: Situated cognitive blueprints for seamless social interactions”
+
+
 15:40 - 16:40 &emsp; Session: Non-humans
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Anna Finke, University of Murcia<br/>
@@ -98,6 +109,12 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Ecological psychology meets political philosophy of mind"
 
 11:20 – 12:30 &emsp; Poster session
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Radu Nedescu, “An enactivist model of how participatory sense-making is modulated by objects in autism”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Miguel Gramage (University of Valencia), “Perceiving relevance: Two views on agency and affordances perception”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Matteo Mauro Lenti, “An atmosphere of affordances: An argument for the enactive-ecological account of ASD”<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; William Angkasa (Ruhr-University Bochum), “MIND Script: Situated cognitive blueprints for seamless social interactions”
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Marco Degano (University of Wollongong), “How radically embodied can intentions in skilled action get?”
 
 12:30 – 13:30 &emsp; _Lunch (provided)_
 
