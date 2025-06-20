@@ -109,12 +109,14 @@ Location: Dialogen, SDU
 Dimensions of Radical Embodiment, Day 2<br/>
 Location: Dialogen, SDU
 
-08:30 – 09:00 _Coffee and croissant_
+08:30 – 09:30 _Coffee and croissant_
 
-09:00 – 10:00 &emsp; Keynote: **Manuel Heras-Escribano**, University of Granada<br/>
+09:30 – 10:30 &emsp; Keynote: **Manuel Heras-Escribano**, University of Granada<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  "Radical embodiment and the origins of content"
 
-10:00 – 11:20 &emsp; Session: Radical embodiment beyond the laboratory
+10:30 – 10:50 &emsp; _Break_
+
+10:50 – 11:50 &emsp; Session: Radical embodiment beyond the laboratory
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Matt Miller-Dicks, University of Portsmouth<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Holistic representative design"
@@ -128,7 +130,9 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Moritz Bammel, Leuphana University Leuneburg<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Ecological psychology meets political philosophy of mind"
 
-11:20 – 12:30 &emsp; Poster session
+11:50 – 12:30 &emsp; _Lunch (provided)_
+
+12:30 – 13:30 &emsp; Poster session
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Radu Nedescu,<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; “An enactivist model of how participatory sense-making is<br/>
@@ -148,8 +152,6 @@ Location: Dialogen, SDU
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Marco Degano (University of Wollongong),<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; “How radically embodied can intentions in skilled action get?”
-
-12:30 – 13:30 &emsp; _Lunch (provided)_
 
 13:30 – 14:50 &emsp; Session: Numbers and letters
 
