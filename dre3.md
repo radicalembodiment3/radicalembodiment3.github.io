@@ -174,6 +174,9 @@ Location: Dialogen, SDU
 
 15:20 – 17:00 &emsp; Session: Tech, drugs, rock 'n' roll
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Martyna Meyer, SDU &<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Affordances: the scope"
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Zuzanna Rucińska, University of Antwerp &<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Thomas van Es, University of the Basque Country<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Against fictionlism of virtual actions"
