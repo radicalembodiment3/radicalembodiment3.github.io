@@ -116,7 +116,7 @@ Location: Dialogen, SDU
 
 10:30 – 10:50 &emsp; _Break_
 
-10:50 – 11:50 &emsp; Session: Radical embodiment beyond the laboratory
+10:50 – 12:10 &emsp; Session: Radical embodiment beyond the laboratory
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Matt Miller-Dicks, University of Portsmouth<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Holistic representative design"
@@ -130,7 +130,7 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Moritz Bammel, Leuphana University Leuneburg<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Ecological psychology meets political philosophy of mind"
 
-11:50 – 12:30 &emsp; _Lunch (provided)_
+12:10 – 12:30 &emsp; _Lunch (provided)_
 
 12:30 – 13:30 &emsp; Poster session
 
