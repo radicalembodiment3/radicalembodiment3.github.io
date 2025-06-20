@@ -174,7 +174,7 @@ Location: Dialogen, SDU
 
 15:20 – 17:00 &emsp; Session: Tech, drugs, rock 'n' roll
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Martyna Meyer, SDU &<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Martyna Meyer, SDU<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Affordances: the scope"
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Zuzanna Rucińska, University of Antwerp &<br/>
