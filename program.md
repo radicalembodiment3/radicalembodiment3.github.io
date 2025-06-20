@@ -74,9 +74,9 @@ This page gives an overview of the program. For the full program for each event 
 
 1030-1050 _Break_
 
-1050-1150 Session: Radical embodiment beyond the laboratory
+1050-1210 Session: Radical embodiment beyond the laboratory
 
-1150-1230 _Lunch (provided)_
+1210-1230 _Lunch (provided)_
 
 1230-1330 Poster session
 
