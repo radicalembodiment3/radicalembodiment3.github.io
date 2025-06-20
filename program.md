@@ -68,15 +68,17 @@ This page gives an overview of the program. For the full program for each event 
 **Dimensions of radical embodiment 3: Day 2** \[<a href="/dre3">full program</a>\]<br/>
 **Location: Dialogen, SDU Odense Campus**
 
-0830-0900 _Welcome coffee and croissant_
+0830-0930 _Welcome coffee and croissant_
 
-0900-1000 Keynote: **Manuel Heras-Escribano** (University of Granada), "Radical embodiment and the origins of content"
+0930-1030 Keynote: **Manuel Heras-Escribano** (University of Granada), "Radical embodiment and the origins of content"
 
-1000-1120 Session: Radical embodiment beyond the laboratory
+1030-1050 _Break_
 
-1120-1230 Poster session
+1050-1150 Session: Radical embodiment beyond the laboratory
 
-1230-1330 _Lunch (provided)_
+1150-1230 _Lunch (provided)_
+
+1230-1330 Poster session
 
 1330-1450 Session: Numbers and letters
 
