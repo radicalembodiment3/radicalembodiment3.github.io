@@ -98,9 +98,11 @@ This page gives an overview of the program. For the full program for each event 
 
 1000-1100 **Wendy Ross** (London Metropolitan University) “Hylomentation in metareasoning”
 
-1100-1200 **Ana-Maria Olteteanu** (Constructor University Bremen) “How Not to Be A Lonely A.I.: Exploring Linguistic and Visual Problem Solving Through Games”
+1100-1115 _Break_
 
-1200-1300 _Lunch (provided)_
+1115-1215 **Ana-Maria Olteteanu** (Constructor University Bremen) “How Not to Be A Lonely A.I.: Exploring Linguistic and Visual Problem Solving Through Games”
+
+1215-1300 _Lunch (provided)_
 
 1300-1400 **Sotirios Kotsopoulos** (MIT / National Technical University of Athens) “Design without Representation”
 
