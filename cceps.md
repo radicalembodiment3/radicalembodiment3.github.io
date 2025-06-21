@@ -24,13 +24,13 @@ Location: DIAS Seminar Room, SDU Odense Campus
 10:00 – 11:00 &emsp; **Wendy Ross** (London Metropolitan University)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Hylomentation in metareasoning"
 
-10:30 – 11:00 &emsp; _Break_
+11:00 – 11:15 &emsp; _Break_
 
-11:00 – 12:00 &emsp; **Ana-Maria Olteteanu** (Constructor University Bremen)<br/>
+11:15 – 1215 &emsp; **Ana-Maria Olteteanu** (Constructor University Bremen)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "How Not to Be A Lonely A.I.:<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Exploring Linguistic and Visual Problem Solving Through Games"
 
-12:00 – 13:00 &emsp; _Lunch (provided)_
+12:15 – 13:00 &emsp; _Lunch (provided)_
 
 13:00 – 14:00 &emsp; **Sotirios Kotsopoulos** (MIT / National Technical University of Athens)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Design without Representation"
