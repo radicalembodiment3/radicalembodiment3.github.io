@@ -3,6 +3,14 @@ layout: page
 title: Photos
 ---
 
-![first image](/assets/img/DRE3.jpg)
-![second image](/assets/img/CCEPS-group.jpg)
+![group photo DRE3](/assets/img/DRE3.jpg)
+![group photo CCEPS](/assets/img/CCEPS-group.jpg)
+![Amy's](/assets/img/Amys.jpg)
+![Dialogen](/assets/img/Dialogen-wide.jpg)
+![Dialogen from above](/assets/img/Dialogen.jpg)
+![Lego task at the cognitive ethnography workshop](/assets/img/Lego.jpg)
+![Vicente](/assets/img/Vicente.jpg)
+![Sofie](/assets/img/Sofie.jpg)
+![Manuel](/assets/img/Manuel.jpg)
+![Storms](/assets/img/Storms.jpg)
 *Photos from the conference.*
