@@ -5,6 +5,7 @@ title: Photos
 
 ![group photo DRE3](/assets/img/DRE3.jpg)
 ![group photo CCEPS](/assets/img/CCEPS-group.jpg)
+![speakers CCEPS](/assets/img/CCEPS-speakers.jpg)
 ![Amy's](/assets/img/Amys.jpg)
 ![Dialogen](/assets/img/Dialogen-wide.jpg)
 ![Dialogen from above](/assets/img/Dialogen.jpg)
