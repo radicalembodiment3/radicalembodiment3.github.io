@@ -46,7 +46,7 @@ Location: Dialogen, SDU
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; L. N. Wyman, Maryland University of Integrative Health<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Perceptual justification and place: <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Merleau-Ponty & Seigel on place-making & memory"
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Merleau-Ponty & Siegel on place-making & memory"
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jelle Bruineberg, University of Copenhagen<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Attention in radical embodiment"
@@ -121,13 +121,15 @@ Location: Dialogen, SDU
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Matt Miller-Dicks, University of Portsmouth<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Holistic representative design"
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Guilherme Sanches de Oliveira, University of Murcia<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Affordances in the wild"
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Doug Hardman, Bournemouth University<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Wayfinding in the wild"
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Guilherme Sanches de Oliveira, University of Murcia &<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Moritz Bammel, Leuphana University Leuneburg<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Affordances in the wild"
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Moritz Bammel, Leuphana University Leuneburg &<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Guilherme Sanches de Oliveira, University of Murcia<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "Ecological psychology meets political philosophy of mind"
 
 12:10 – 12:30 &emsp; _Lunch (provided)_
